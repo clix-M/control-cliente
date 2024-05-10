@@ -15,6 +15,8 @@
 
 ## sql 
 entrar a la caperta script
+
+```
 CREATE TABLE Cliente (
                          id_cliente INT PRIMARY KEY AUTO_INCREMENT,
                          nombre VARCHAR(255),
@@ -23,6 +25,5 @@ CREATE TABLE Cliente (
                          telefono VARCHAR(255),
                          saldo DOUBLE
 );
-```
 
 ```
